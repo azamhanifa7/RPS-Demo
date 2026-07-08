@@ -2,9 +2,6 @@
 - A simple and interactive **Rock–Paper–Scissors game** built using **Python** and **Streamlit**.
 This project demonstrates how basic Python logic can be transformed into a live web application and deployed online.
 
-# 🚀 Live Demo
-🔗 https://srps-demo-stonepaperscis.streamlit.app/
-
 # 📌 Features
 - **🎮 Interactive user interface**
 - **🤖 Play against the computer**
